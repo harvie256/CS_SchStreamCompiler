@@ -1,0 +1,6 @@
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\bin\Debug\CS_StreamCompiler.exe.config
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\bin\Debug\CS_StreamCompiler.exe
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\bin\Debug\CS_StreamCompiler.pdb
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\obj\Debug\CS_StreamCompiler.csprojResolveAssemblyReference.cache
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\obj\Debug\CS_StreamCompiler.exe
+c:\users\derryn harvie\documents\visual studio 2015\Projects\CS_StreamCompiler\CS_StreamCompiler\obj\Debug\CS_StreamCompiler.pdb
